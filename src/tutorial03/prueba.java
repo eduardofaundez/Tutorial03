@@ -7,13 +7,8 @@ package tutorial03;
 
 /**
  *
- * @author Eduardo Antonio
+ * @author Alonso
  */
-public class Tutorial03 {
-
-  
-    public static void main(String[] args) {
-        System.out.println("Hola Tutorial03, muy bueno");
-    }
-    
+public class prueba {
+    //eduardo corrige esto por favor
 }
