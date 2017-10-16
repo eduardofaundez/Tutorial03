@@ -14,6 +14,11 @@ public class Tutorial03 {
   
     public static void main(String[] args) {
         System.out.println("Hola Tutorial03");
+        
+        int n1 = 1;
+        int n2 = 0;
+        int suma = n1 + n2;
+        
     }
     
 }
